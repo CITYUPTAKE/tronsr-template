@@ -1,1 +1,1 @@
-CITYUPTAKE intends to build a configuration that allows the uptake of Tron in our cities to be secure, reliable, and fast. At the launch of mainnet, CITYUPTAKE intends to have the recommended server requirements online. This requirement will represent CITYUPTAKE beginning; with the goal of expansion CITYUPTAKE top priority.
+CITYUPTAKE intends to build a configuration that allows its node to be competitive and reliable.
